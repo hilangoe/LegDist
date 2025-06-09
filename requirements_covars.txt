@@ -1,0 +1,13 @@
+
+pandas
+scikit-learn
+matplotlib
+seaborn
+numpy
+morethemes
+requests
+beautifulsoup4
+# geopandas # had to install this via conda to deal with dependency issues
+openpyxl
+shapely
+thefuzz

@@ -1,0 +1,161 @@
+SQGDP1 State quarterly gross domestic product (GDP) summary
+SQGDP1 State quarterly gross domestic product (GDP) summary
+State or DC
+GeoFips,GeoName,LineCode,Description,2024:Q1,2024:Q2,2024:Q3,2024:Q4
+01000,Alabama,1,Real GDP (millions of chained 2017 dollars) 1,248659.8,250739.6,254444.5,256814.3
+01000,Alabama,2,Chain-type quantity indexes for real GDP,114.793,115.753,117.464,118.558
+01000,Alabama,3,Current-dollar GDP (millions of current dollars),313790.1,318080.0,324077.8,329002.4
+02000,Alaska,1,Real GDP (millions of chained 2017 dollars) 1,54710.6,54561.4,54857.0,55395.0
+02000,Alaska,2,Chain-type quantity indexes for real GDP,102.166,101.887,102.439,103.444
+02000,Alaska,3,Current-dollar GDP (millions of current dollars),69272.8,69794.2,70140.8,70668.1
+04000,Arizona,1,Real GDP (millions of chained 2017 dollars) 1,428803.1,432050.1,435344.6,438854.8
+04000,Arizona,2,Chain-type quantity indexes for real GDP,128.731,129.706,130.695,131.749
+04000,Arizona,3,Current-dollar GDP (millions of current dollars),541058.4,548806.1,555613.6,563190.1
+05000,Arkansas,1,Real GDP (millions of chained 2017 dollars) 1,146111.8,146642.3,149105.5,150974.3
+05000,Arkansas,2,Chain-type quantity indexes for real GDP,117.944,118.372,120.360,121.869
+05000,Arkansas,3,Current-dollar GDP (millions of current dollars),184600.9,186196.7,190229.5,193865.1
+06000,California,1,Real GDP (millions of chained 2017 dollars) 1,3331857.2,3354963.1,3380751.2,3392761.6
+06000,California,2,Chain-type quantity indexes for real GDP,121.576,122.419,123.360,123.799
+06000,California,3,Current-dollar GDP (millions of current dollars),4027204.4,4080178.3,4132221.0,4172890.6
+08000,Colorado,1,Real GDP (millions of chained 2017 dollars) 1,440600.9,443495.5,447218.4,449894.6
+08000,Colorado,2,Chain-type quantity indexes for real GDP,125.811,126.637,127.700,128.465
+08000,Colorado,3,Current-dollar GDP (millions of current dollars),542411.2,550173.1,557307.8,563398.0
+09000,Connecticut,1,Real GDP (millions of chained 2017 dollars) 1,291102.5,293086.6,295295.3,296625.8
+09000,Connecticut,2,Chain-type quantity indexes for real GDP,106.290,107.015,107.821,108.307
+09000,Connecticut,3,Current-dollar GDP (millions of current dollars),358593.5,363416.8,368321.1,372560.8
+10000,Delaware,1,Real GDP (millions of chained 2017 dollars) 1,78722.1,79347.5,79950.0,80591.3
+10000,Delaware,2,Chain-type quantity indexes for real GDP,113.179,114.078,114.944,115.866
+10000,Delaware,3,Current-dollar GDP (millions of current dollars),100917.7,102400.8,103996.2,105698.4
+11000,District of Columbia,1,Real GDP (millions of chained 2017 dollars) 1,146805.8,147570.3,148316.9,149387.3
+11000,District of Columbia,2,Chain-type quantity indexes for real GDP,109.313,109.882,110.438,111.235
+11000,District of Columbia,3,Current-dollar GDP (millions of current dollars),182189.9,184915.6,187350.6,190204.0
+12000,Florida,1,Real GDP (millions of chained 2017 dollars) 1,1324280.3,1334883.3,1345731.9,1353579.1
+12000,Florida,2,Chain-type quantity indexes for real GDP,130.488,131.533,132.602,133.375
+12000,Florida,3,Current-dollar GDP (millions of current dollars),1670439.3,1695272.6,1717871.5,1738676.3
+13000,Georgia,1,Real GDP (millions of chained 2017 dollars) 1,693161.2,699113.5,703632.7,708383.7
+13000,Georgia,2,Chain-type quantity indexes for real GDP,118.785,119.805,120.579,121.394
+13000,Georgia,3,Current-dollar GDP (millions of current dollars),865084.2,877746.3,887924.2,899383.4
+15000,Hawaii,1,Real GDP (millions of chained 2017 dollars) 1,89641.2,89946.0,90521.2,91012.4
+15000,Hawaii,2,Chain-type quantity indexes for real GDP,102.522,102.870,103.528,104.090
+15000,Hawaii,3,Current-dollar GDP (millions of current dollars),113623.8,114936.3,116291.7,117656.9
+16000,Idaho,1,Real GDP (millions of chained 2017 dollars) 1,97950.6,99368.8,100547.5,100544.9
+16000,Idaho,2,Chain-type quantity indexes for real GDP,134.298,136.243,137.859,137.855
+16000,Idaho,3,Current-dollar GDP (millions of current dollars),124946.1,127373.4,129643.7,130565.0
+17000,Illinois,1,Real GDP (millions of chained 2017 dollars) 1,887516.3,893704.2,898035.4,902114.1
+17000,Illinois,2,Chain-type quantity indexes for real GDP,106.567,107.310,107.830,108.320
+17000,Illinois,3,Current-dollar GDP (millions of current dollars),1118330.9,1132143.3,1143080.7,1155419.6
+18000,Indiana,1,Real GDP (millions of chained 2017 dollars) 1,414791.6,417659.9,421672.5,423767.1
+18000,Indiana,2,Chain-type quantity indexes for real GDP,116.014,116.816,117.939,118.524
+18000,Indiana,3,Current-dollar GDP (millions of current dollars),518819.9,523832.3,530661.2,536211.0
+19000,Iowa,1,Real GDP (millions of chained 2017 dollars) 1,200270.8,201088.5,201097.6,201930.2
+19000,Iowa,2,Chain-type quantity indexes for real GDP,107.025,107.462,107.467,107.912
+19000,Iowa,3,Current-dollar GDP (millions of current dollars),253921.6,255962.1,257575.1,260624.5
+20000,Kansas,1,Real GDP (millions of chained 2017 dollars) 1,183328.5,185853.0,186477.8,187224.5
+20000,Kansas,2,Chain-type quantity indexes for real GDP,110.257,111.775,112.151,112.600
+20000,Kansas,3,Current-dollar GDP (millions of current dollars),229855.1,234118.8,236123.5,238595.5
+21000,Kentucky,1,Real GDP (millions of chained 2017 dollars) 1,226966.0,228919.0,231148.8,232507.9
+21000,Kentucky,2,Chain-type quantity indexes for real GDP,111.496,112.456,113.551,114.219
+21000,Kentucky,3,Current-dollar GDP (millions of current dollars),287272.9,291107.9,295140.4,298562.6
+22000,Louisiana,1,Real GDP (millions of chained 2017 dollars) 1,253820.4,255731.1,257161.8,258976.0
+22000,Louisiana,2,Chain-type quantity indexes for real GDP,105.833,106.630,107.226,107.983
+22000,Louisiana,3,Current-dollar GDP (millions of current dollars),323051.6,326653.4,328961.3,332462.1
+23000,Maine,1,Real GDP (millions of chained 2017 dollars) 1,76786.4,77101.9,77795.1,78226.5
+23000,Maine,2,Chain-type quantity indexes for real GDP,121.882,122.383,123.483,124.168
+23000,Maine,3,Current-dollar GDP (millions of current dollars),96859.5,97871.9,99237.8,100454.8
+24000,Maryland,1,Real GDP (millions of chained 2017 dollars) 1,428162.4,430592.8,433776.0,436239.6
+24000,Maryland,2,Chain-type quantity indexes for real GDP,107.117,107.725,108.521,109.138
+24000,Maryland,3,Current-dollar GDP (millions of current dollars),532514.5,539231.6,546362.0,552954.9
+25000,Massachusetts,1,Real GDP (millions of chained 2017 dollars) 1,628867.3,631770.4,635408.6,638424.2
+25000,Massachusetts,2,Chain-type quantity indexes for real GDP,118.625,119.173,119.859,120.428
+25000,Massachusetts,3,Current-dollar GDP (millions of current dollars),767359.5,776147.0,785140.7,794017.5
+26000,Michigan,1,Real GDP (millions of chained 2017 dollars) 1,558921.6,564681.9,568779.3,571750.5
+26000,Michigan,2,Chain-type quantity indexes for real GDP,110.655,111.796,112.607,113.195
+26000,Michigan,3,Current-dollar GDP (millions of current dollars),692312.7,703277.5,711481.3,719391.5
+27000,Minnesota,1,Real GDP (millions of chained 2017 dollars) 1,392642.1,393936.5,395901.6,398748.2
+27000,Minnesota,2,Chain-type quantity indexes for real GDP,110.690,111.055,111.609,112.412
+27000,Minnesota,3,Current-dollar GDP (millions of current dollars),493022.2,497631.2,502945.6,509806.6
+28000,Mississippi,1,Real GDP (millions of chained 2017 dollars) 1,120790.3,121552.2,123069.6,124340.1
+28000,Mississippi,2,Chain-type quantity indexes for real GDP,109.529,110.220,111.596,112.748
+28000,Mississippi,3,Current-dollar GDP (millions of current dollars),154262.2,156025.7,158547.8,161128.2
+29000,Missouri,1,Real GDP (millions of chained 2017 dollars) 1,351820.8,355229.6,358526.7,361036.6
+29000,Missouri,2,Chain-type quantity indexes for real GDP,113.026,114.121,115.181,115.987
+29000,Missouri,3,Current-dollar GDP (millions of current dollars),441374.4,448165.0,454579.7,460686.5
+30000,Montana,1,Real GDP (millions of chained 2017 dollars) 1,58086.7,58541.5,58527.7,58922.9
+30000,Montana,2,Chain-type quantity indexes for real GDP,119.839,120.777,120.749,121.564
+30000,Montana,3,Current-dollar GDP (millions of current dollars),74811.0,75855.3,76195.4,77135.1
+31000,Nebraska,1,Real GDP (millions of chained 2017 dollars) 1,144587.4,146449.4,145943.3,146657.5
+31000,Nebraska,2,Chain-type quantity indexes for real GDP,117.341,118.852,118.441,119.021
+31000,Nebraska,3,Current-dollar GDP (millions of current dollars),182082.8,185237.9,185966.9,188356.3
+32000,Nevada,1,Real GDP (millions of chained 2017 dollars) 1,199575.2,200465.4,201337.1,202307.7
+32000,Nevada,2,Chain-type quantity indexes for real GDP,122.289,122.835,123.369,123.964
+32000,Nevada,3,Current-dollar GDP (millions of current dollars),256403.0,259701.6,262036.3,264772.6
+33000,New Hampshire,1,Real GDP (millions of chained 2017 dollars) 1,95430.3,95926.2,96991.3,97656.7
+33000,New Hampshire,2,Chain-type quantity indexes for real GDP,117.555,118.165,119.477,120.297
+33000,New Hampshire,3,Current-dollar GDP (millions of current dollars),118760.2,120162.8,122085.6,123748.8
+34000,New Jersey,1,Real GDP (millions of chained 2017 dollars) 1,672565.1,676537.6,681572.1,685198.8
+34000,New Jersey,2,Chain-type quantity indexes for real GDP,113.977,114.651,115.504,116.118
+34000,New Jersey,3,Current-dollar GDP (millions of current dollars),831386.9,841417.0,851863.1,861683.0
+35000,New Mexico,1,Real GDP (millions of chained 2017 dollars) 1,111886.4,112370.9,113105.6,113840.1
+35000,New Mexico,2,Chain-type quantity indexes for real GDP,120.037,120.557,121.345,122.133
+35000,New Mexico,3,Current-dollar GDP (millions of current dollars),138243.2,140092.0,141301.6,142531.1
+36000,New York,1,Real GDP (millions of chained 2017 dollars) 1,1814253.5,1831168.7,1839391.2,1853429.9
+36000,New York,2,Chain-type quantity indexes for real GDP,111.660,112.701,113.207,114.071
+36000,New York,3,Current-dollar GDP (millions of current dollars),2245848.7,2284363.5,2310967.9,2346932.0
+37000,North Carolina,1,Real GDP (millions of chained 2017 dollars) 1,653319.0,658943.8,665244.7,670283.9
+37000,North Carolina,2,Chain-type quantity indexes for real GDP,119.478,120.507,121.659,122.581
+37000,North Carolina,3,Current-dollar GDP (millions of current dollars),821284.1,832746.7,845142.7,857315.3
+38000,North Dakota,1,Real GDP (millions of chained 2017 dollars) 1,60007.6,60017.8,59664.6,59974.2
+38000,North Dakota,2,Chain-type quantity indexes for real GDP,106.151,106.169,105.545,106.092
+38000,North Dakota,3,Current-dollar GDP (millions of current dollars),75126.2,75724.0,75221.4,75525.8
+39000,Ohio,1,Real GDP (millions of chained 2017 dollars) 1,719377.5,725370.1,729842.4,734459.5
+39000,Ohio,2,Chain-type quantity indexes for real GDP,110.302,111.221,111.907,112.615
+39000,Ohio,3,Current-dollar GDP (millions of current dollars),910255.4,922776.2,933044.3,944884.6
+40000,Oklahoma,1,Real GDP (millions of chained 2017 dollars) 1,210539.1,211722.1,213539.7,215334.4
+40000,Oklahoma,2,Chain-type quantity indexes for real GDP,109.349,109.963,110.907,111.840
+40000,Oklahoma,3,Current-dollar GDP (millions of current dollars),261057.9,264596.3,267320.6,270141.5
+41000,Oregon,1,Real GDP (millions of chained 2017 dollars) 1,262474.7,264620.3,266353.6,267138.9
+41000,Oregon,2,Chain-type quantity indexes for real GDP,116.379,117.330,118.099,118.447
+41000,Oregon,3,Current-dollar GDP (millions of current dollars),324646.2,329378.4,333466.6,336623.4
+42000,Pennsylvania,1,Real GDP (millions of chained 2017 dollars) 1,808315.4,814704.1,823018.5,828079.7
+42000,Pennsylvania,2,Chain-type quantity indexes for real GDP,107.158,108.005,109.108,109.779
+42000,Pennsylvania,3,Current-dollar GDP (millions of current dollars),1003021.7,1017257.3,1032269.8,1044276.5
+44000,Rhode Island,1,Real GDP (millions of chained 2017 dollars) 1,64616.2,65011.4,65595.2,65903.0
+44000,Rhode Island,2,Chain-type quantity indexes for real GDP,109.945,110.617,111.611,112.134
+44000,Rhode Island,3,Current-dollar GDP (millions of current dollars),80838.8,81911.2,83128.2,84091.9
+45000,South Carolina,1,Real GDP (millions of chained 2017 dollars) 1,269490.4,272448.7,274457.6,276901.8
+45000,South Carolina,2,Chain-type quantity indexes for real GDP,119.807,121.122,122.015,123.102
+45000,South Carolina,3,Current-dollar GDP (millions of current dollars),342495.4,348128.4,352048.4,357189.5
+46000,South Dakota,1,Real GDP (millions of chained 2017 dollars) 1,57306.7,57638.3,57521.6,57525.7
+46000,South Dakota,2,Chain-type quantity indexes for real GDP,111.027,111.669,111.443,111.451
+46000,South Dakota,3,Current-dollar GDP (millions of current dollars),74170.4,74938.0,75432.6,76176.8
+47000,Tennessee,1,Real GDP (millions of chained 2017 dollars) 1,426915.0,430106.7,434409.2,437634.0
+47000,Tennessee,2,Chain-type quantity indexes for real GDP,120.116,121.015,122.225,123.132
+47000,Tennessee,3,Current-dollar GDP (millions of current dollars),538671.8,545695.4,553470.7,560996.2
+48000,Texas,1,Real GDP (millions of chained 2017 dollars) 1,2145329.6,2160124.1,2182545.2,2201475.3
+48000,Texas,2,Chain-type quantity indexes for real GDP,128.670,129.557,130.902,132.037
+48000,Texas,3,Current-dollar GDP (millions of current dollars),2658372.6,2694524.0,2727001.7,2757673.3
+49000,Utah,1,Real GDP (millions of chained 2017 dollars) 1,231792.6,234520.9,237124.4,239424.2
+49000,Utah,2,Chain-type quantity indexes for real GDP,134.704,136.290,137.803,139.139
+49000,Utah,3,Current-dollar GDP (millions of current dollars),293548.1,298814.7,303367.1,307885.5
+50000,Vermont,1,Real GDP (millions of chained 2017 dollars) 1,35622.5,35917.1,36285.9,36339.6
+50000,Vermont,2,Chain-type quantity indexes for real GDP,109.307,110.212,111.343,111.508
+50000,Vermont,3,Current-dollar GDP (millions of current dollars),44771.4,45431.9,46118.8,46506.6
+51000,Virginia,1,Real GDP (millions of chained 2017 dollars) 1,608737.4,613508.0,618404.5,623581.0
+51000,Virginia,2,Chain-type quantity indexes for real GDP,118.163,119.089,120.040,121.044
+51000,Virginia,3,Current-dollar GDP (millions of current dollars),748045.8,759235.9,769659.8,780957.9
+53000,Washington,1,Real GDP (millions of chained 2017 dollars) 1,695924.3,699749.1,704985.8,707478.4
+53000,Washington,2,Chain-type quantity indexes for real GDP,132.012,132.737,133.730,134.203
+53000,Washington,3,Current-dollar GDP (millions of current dollars),840340.2,850529.1,859886.7,867977.2
+54000,West Virginia,1,Real GDP (millions of chained 2017 dollars) 1,82677.5,83118.0,84077.7,84741.2
+54000,West Virginia,2,Chain-type quantity indexes for real GDP,109.984,110.570,111.846,112.729
+54000,West Virginia,3,Current-dollar GDP (millions of current dollars),105857.3,107351.2,108366.5,109065.5
+55000,Wisconsin,1,Real GDP (millions of chained 2017 dollars) 1,349300.9,352941.1,356724.6,357337.1
+55000,Wisconsin,2,Chain-type quantity indexes for real GDP,108.517,109.648,110.823,111.013
+55000,Wisconsin,3,Current-dollar GDP (millions of current dollars),441680.9,448446.3,455591.2,459422.9
+56000,Wyoming,1,Real GDP (millions of chained 2017 dollars) 1,40070.0,40414.4,40602.5,40978.0
+56000,Wyoming,2,Chain-type quantity indexes for real GDP,106.512,107.427,107.927,108.925
+56000,Wyoming,3,Current-dollar GDP (millions of current dollars),52101.0,52979.9,53153.5,53550.2
+
+Legend/Footnotes
+"1. Real GDP is in millions of chained 2017 dollars. Calculations are performed on unrounded data. Chained (2017) dollar series are calculated as the product of the chain-type quantity index and the 2017 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. For the All industry total and Government and government enterprises, the difference between the United States and sum-of-states reflects overseas activity, economic activity taking place outside the borders of the United States by the military and associated federal civilian support staff."
+"  Last updated: March 28, 2025-- new statistics for 2024:Q4."
